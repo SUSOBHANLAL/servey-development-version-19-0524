@@ -1044,16 +1044,4 @@
   .project-title {
     margin-bottom: 3%;
   }
-  /* .gender-title {
-    font-family: serif;
-    width: 95%;
-    color: #2f4f4f;
-    font-weight: 200;
-    margin: 5px 0;
-  } */
-  .gender-category span {
-    font-family: serif;
-    font-weight: 200;
-    color: #2f4f4f;
-  }
 }
