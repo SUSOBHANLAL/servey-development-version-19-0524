@@ -554,7 +554,7 @@ document.getElementById("next2").addEventListener("click", function () {
 
   let isValidNumber = false;
 
-  saveAndNext();
+  // saveAndNext();
 
   const travelWorkDiv = document.getElementById("travel-work-div");
   const travelPartnerDiv = document.getElementById("travel-partner-div");
