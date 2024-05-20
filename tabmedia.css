@@ -999,7 +999,7 @@
   .matrixorigintransport-category span {
     font-weight: 100;
     width: 47%;
-    background-color: #9a2c35;
+    /* background-color: #9a2c35; */
   }
   .matrixorigintransport-category input {
     margin-left: 3%;
@@ -1044,10 +1044,9 @@
   .project-title {
     margin-bottom: 3%;
   }
-
   .gender-title {
     font-family: serif;
-
+    width: 95%;
     color: #2f4f4f;
     font-weight: 900;
     margin: 5px 0;
